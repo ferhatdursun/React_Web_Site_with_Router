@@ -1,0 +1,137 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.container {
+  display: flex;
+}
+
+.html {
+  display: inline-block;
+  text-align: center;
+  margin: 7vh 3.5vw 0vh 3.5vw;
+  width: 26%;
+  cursor: pointer;
+}
+
+.HtmlDetails {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 2rem auto;
+  width: 16%;
+}
+
+.Lorem {
+  font-size: large;
+  margin: 1.8rem;
+  text-align: justify;
+}
+
+.AContainer {
+  display: flex;
+}
+
+.AboutContainer {
+  margin: 1rem 5rem;
+}
+
+.AboutLorem {
+  background-color: #34424a;
+  height: 7rem;
+  padding: 2rem;
+  color: white;
+}
+
+.WhatWeDo {
+  margin: 4rem 1rem;
+  background-color: #34424a;
+  padding: 1rem 1rem;
+  height: 13rem;
+  color: white;
+}
+
+.ServicesContainer {
+  display: flex;
+  justify-content: space-around;
+}
+
+.ServicesSol {
+  margin-top: 0.5rem;
+}
+
+.ServicesSag {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin-top: 2rem;
+  border: 1px solid;
+  height: 22rem;
+  width: 19rem;
+  padding-left: 1rem;
+  padding-top: 1rem;
+  background-color: #34424a;
+}
+
+.Form {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.inputt {
+  width: 15rem;
+  padding: 0.2rem;
+  height: 1.7rem;
+}
+.label {
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+  color: white;
+}
+
+.Sbutton {
+  margin-top: 1rem;
+  width: 6rem;
+  height: 3rem;
+  background-color: red;
+  color: white;
+  font-size: large;
+}
+
+.NavbarA {
+  text-decoration: none;
+  color: #a8508a;
+}
+
+.SWebSeiteDesign {
+  border: 1px solid;
+  padding: 0.5rem;
+  background-color: #f9fafa;
+}
+
+.SWebSeiteMaintenance {
+  margin-top: 0.5rem;
+  border: 1px solid;
+  padding: 0.5rem;
+  background-color: #f9fafa;
+}
+
+.SWebsiteHosting {
+  margin-top: 0.5rem;
+
+  border: 1px solid;
+  padding: 0.5rem;
+  background-color: #f9fafa;
+}
