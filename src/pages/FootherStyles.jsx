@@ -16,12 +16,12 @@ export const Genel = styled.div`
   color: black;
   position: absolute;
   bottom: 2rem;
-  width: 100%;
   
-  height: 50px;
+  
+  height: 10px;
 `;
 
-export const Copyright = styled.p`
+export const Copyright = styled.a`
   color: blueviolet;
   display: block;
   font-size: larger;
@@ -31,5 +31,6 @@ export const Copyright = styled.p`
 export const A = styled.a`
   background-color: none;
   text-decoration: none;
+  
   
 `;

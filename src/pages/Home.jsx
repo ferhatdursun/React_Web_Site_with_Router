@@ -1,5 +1,4 @@
 import React from "react";
-import Header from "../components/Header";
 import { useNavigate } from "react-router-dom"
 import Html from "../img/logo_html.png";
 import Css from "../img/logo_css.png";
