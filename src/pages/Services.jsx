@@ -16,7 +16,7 @@ const Services = () => {
           </p>
         </div>
         <div className="SWebSeiteMaintenance">
-          <p>Website Maintenance</p>
+          <h2>Website Maintenance</h2>
 
           <p>
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Impedit
@@ -26,7 +26,7 @@ const Services = () => {
           </p>
         </div>
         <div className="SWebsiteHosting">
-          <p>Website Hosting</p>
+          <h2>Website Hosting</h2>
           <p>
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Explicabo,
             eaque, rem molestiae praesentium accusamus perspiciatis provident
