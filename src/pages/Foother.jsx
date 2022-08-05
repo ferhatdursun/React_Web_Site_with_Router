@@ -5,7 +5,7 @@ const Foother = () => {
   return (
     <FootherContainer>
       <Genel>
-        <A href="https://github.com/ferhatdursun">
+        <A href="https://github.com/ferhatdursun" target="_blank">
           <Copyright> Ferhat-Clarusway Web Design, Copyright 2020</Copyright>
         </A>
         <A href="https://www.clarusway.com" target="_blank">
